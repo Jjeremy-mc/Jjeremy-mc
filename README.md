@@ -13,5 +13,5 @@ I started by fixing computers; now I build software that solves real problems.
 
 correo: jjeremymonsalvec@gmail.com
 
-### 🇵🇪 En español
+### 🇵🇪 Hola, que tal...
 Desarrollador backend de Pucallpa, Perú. Empecé reparando computadoras y ahora construyo software que resuelve problemas reales. Actualmente desarrollo **PrecioPC**, un comparador de precios de componentes de PC en Perú.
