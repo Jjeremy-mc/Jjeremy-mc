@@ -1,4 +1,4 @@
-# Hi, I'm Jeremy 👋
+# Hi, I'm Jeremy
 Backend developer from Pucallpa, Peru (UTC-5).
 I started by fixing computers; now I build software that solves real problems.
 
@@ -6,4 +6,4 @@ I started by fixing computers; now I build software that solves real problems.
 **Learning:** AWS · Java
 **Currently building:** PrecioPC, a price tracker for PC parts in Peru
 
-📫 jjeremymonsalvec@gmail.com
+correo: jjeremymonsalvec@gmail.com
